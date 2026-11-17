@@ -1,0 +1,22 @@
+{
+  "name": "pdf2press-assistant-admin",
+  "displayName": "PDF2Press – Assistant Admin",
+  "version": "0.1.0",
+  "description": "Pilote l'admin PDF2Press Core (Aleyant, intégré à Pressero) via le navigateur de Claude : carte de l'admin, création de profils (preflight, correction, imposition, épreuve, communication, rétention, e-mail entrant, cloud) et de flux de travail (éditeur visuel, variables, conditions) déduits d'un produit Pressero / moteur PJM, puis rattachement du flux au produit Pressero. FR / ES / EN.",
+  "author": {
+    "name": "Aleyant"
+  },
+  "repository": "https://github.com/jose291013/pdf2press-assistant-admin",
+  "keywords": [
+    "PDF2Press",
+    "Pressero",
+    "Aleyant",
+    "preflight",
+    "workflow",
+    "flux de travail",
+    "BAT",
+    "PrintJobManager",
+    "PJM",
+    "imprimerie"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "aleyant-pdf2press",
+  "owner": {
+    "name": "Aleyant"
+  },
+  "plugins": [
+    {
+      "name": "pdf2press-assistant-admin",
+      "source": "./",
+      "description": "Profils et flux de travail PDF2Press Core (preflight, correction, imposition, BAT) créés depuis un produit Pressero / moteur PJM.",
+      "version": "0.1.0"
+    }
+  ]
+}
